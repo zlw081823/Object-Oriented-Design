@@ -5,4 +5,7 @@
 #include <stdbool.h>
 #include <stddef.h>
 
+#define OPERATION_SUCCEESS (1)
+#define OPERATION_FAIL     (0)
+
 #endif

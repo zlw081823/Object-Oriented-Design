@@ -1,0 +1,10 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "maxcheck.h": "c",
+        "common.h": "c",
+        "linkedlist.h": "c",
+        "runnableinterface.h": "c",
+        "stdlib.h": "c"
+    }
+}
